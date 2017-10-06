@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+}
+.cuadrado-color {
+	background-color: #EC0D0D;
+	padding-bottom: 20px;
+}
+p{
+	color: black;
+	font-family: 'Pangolin', cursive;
+
+}
+h1 {
+	font-family: 'Stalinist One', cursive;
+}
+/*cambiar tamaño de la imagen width xxpx y heigth xxpx*/
+/*cambiar tamaño de una foto usar el nombre de clase*/
+.enlaces {
+	border-top: 2px groove red;
+	padding-top: 20px;
+}
+img {
+	padding-bottom: 20px;
+}
